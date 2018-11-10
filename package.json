@@ -1,5 +1,9 @@
 {
   "name": "react-rails-CRUD",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^3.3.7",
+    "react-bootstrap": "^0.32.4"
+  }
 }
